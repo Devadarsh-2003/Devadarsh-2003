@@ -1,3 +1,6 @@
+<p align="center"><a href="https://github.com/Devadarsh-2003"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
+
 <h1 align="center">Hi 👋, I'm DEVADARSH C H</h1>
 <h3 align="center">B TECH ECE STUDENT</h3>
 
@@ -21,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devadarsh-2003&show_icons=true&locale=en&layout=compact" alt="devadarsh-2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devadarsh-2003&show_icons=true&locale=en" alt="devadarsh-2003" /></p>
+
+
+ <p align="center"><a href="https://github.com/Devadarsh-2003"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
