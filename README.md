@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devadarsh-2003&label=Profile%20views&color=0e75b6&style=flat" alt="devadarsh-2003" /> </p>
 
-- 🔭 I’m currently working on **MATLAB PROJECTS and OTHER RANDOM PROJECTS**
+- 🔭 I’m currently working on **MATLAB PROJECTS AND OTHER RANDOM PROJECTS**
 
 - 🌱 I’m currently learning **PYTHON,C,MATLAB**
 
