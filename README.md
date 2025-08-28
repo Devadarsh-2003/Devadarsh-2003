@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm DEVADARSH C H</h1>
-<h3 align="center">B TECH ECE STUDENT</h3>
+<h3 align="center">M TECH ECE STUDENT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devadarsh-2003&label=Profile%20views&color=0e75b6&style=flat" alt="devadarsh-2003" /> </p>
 
